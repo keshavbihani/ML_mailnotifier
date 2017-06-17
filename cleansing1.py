@@ -7,8 +7,8 @@ nlp techniques used to clean data and make data a good readable for computer to
 use it as a learning in my machine learning algorithm
 """
 
-spamPath="G:\data\enron1\spam\\"
-hamPath="G:\data\enron1\ham\\"
+spamPath="G:\data\spam\\"
+hamPath="G:\data\ham\\"
 stopword=stopwords.words('english')
 #print(stopword)
 
