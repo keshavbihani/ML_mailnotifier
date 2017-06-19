@@ -1,4 +1,4 @@
-# machinelearning_mailnotifier
+# ML_mailnotifier
 This a desktop application which has used various techiques like nlp,machine learning,python etc .
 
 Purpose of this project is to create a desktop notification app which will notify only those mails which are regarding my workplace rest all are not been notified to the user.
